@@ -14,7 +14,7 @@ Special thanks to https://prettyprinted.com which is one of the best Resources.
 
 # Requirments:
   you can use pip3 install
-  Django==2.2.5
-  djangorestframework==3.10.3
-  djangorestframework-simplejwt==4.3.0
+  Django==2.2.5,
+  djangorestframework==3.10.3,
+  djangorestframework-simplejwt==4.3.0,
   Pillow==6.1.0
